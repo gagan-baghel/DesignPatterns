@@ -1,0 +1,9 @@
+when to use 
+--- when we want one and only one obj of class -(imp)-
+--- no other way to even create another object of class
+--- obj should be accessible by all or shared by all
+ex --- only one priminister, only one mom ,dad;
+
+
+
+
