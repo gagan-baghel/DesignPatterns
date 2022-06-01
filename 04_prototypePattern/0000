@@ -1,0 +1,31 @@
+(prototype)---(Model)---(pre aquition)---(idea before execution)
+
+		 	Model (mcdonalds store imagination)
+	                /   \
+		     copy   copy (mcdonalds store)+additional feature 
+
+when to use 
+making very large no of objs
+
+
+
+lot of time to make obj using new 
+cloning---
+for dealing with it we start cloning the previous obj( first obj ) 
+making clone in java --- 
+which ever class we want to make clone of that must implements
+clonable interface with inbuilt clone function which return 
+then this is necessart for that class to define clone function
+if we dont define clone func it will show clone not supported func 
+
+class demo {
+	person p1 = new person();
+	person p2 = (person) p1.clone();
+}
+
+-----
+prototype pattern 
+shallow copy -- sharing same file with authority (happen in prototype pattern )
+deep copy -- seperated instance 
+
+
