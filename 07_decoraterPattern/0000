@@ -1,0 +1,10 @@
+problem why --
+if we want some addition topping we use decorator 
+if some classes are constant and one is continously changing which pit its effect on  constant classes
+then we use this pattern 
+
+the deco patern attaches additional responsibility to an object dynamically
+deco provide flexible alternative to sub classing to eextending functionality
+( also known as decorator pattern )
+
+
