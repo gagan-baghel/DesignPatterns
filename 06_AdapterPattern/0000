@@ -1,0 +1,18 @@
+need ?
+converting one interface/class into another
+ex ---------------> lappy(charger) ----> need square shape pin  
+and board is circular shape
+( we need a adapter/converter from square to circular  )  ---intermediary--- ( my usb to c type convertor )
+adapter accept square shape and give output as circular 
+
+coding logic 
+same we apply in coding 
+we introduce conversion code in the intermediary class 
+which take input from one and give output to second 
+for example take int input and give string out if thats the need 
+
+
+
+
+(Class to change)	   (class to make)		   (the class  for which we are changing )
+Adapte --------------> adapter ------------------> Target 
