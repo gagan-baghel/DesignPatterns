@@ -1,0 +1,7 @@
+when to use flyweight
+when we have large no of fine graine objects (obj with lots of details)
+
+flyweight is used for less memory allocation 
+for repeated multiple data in 
+differemnt objects
+intent: use sharing when large no of objects are needed (fine grained)
