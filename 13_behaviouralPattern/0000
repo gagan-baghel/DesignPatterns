@@ -1,0 +1,3 @@
+Behavioural design pattern 
+intent --> without violating encapsulation capture and externalise an obj internal state so that the object canbe restored to the state later 
+
